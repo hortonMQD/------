@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Tea_Course_New" targetNamespace="http://tempuri.org/Tea_Course_New.xsd" xmlns:mstns="http://tempuri.org/Tea_Course_New.xsd" xmlns="http://tempuri.org/Tea_Course_New.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="stuscoremanagerConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="stuscoremanagerConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings._06Demo01.Properties.Settings.GlobalReference.Default.stuscoremanagerConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Tea_CourTableAdapter" GeneratorDataComponentClassName="Tea_CourTableAdapter" Name="Tea_Cour" UserDataComponentName="Tea_CourTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="stuscoremanagerConnectionString (Settings)" DbObjectName="stuscoremanager.dbo.Tea_Cour" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT courseName, courseType, teaName, teaDuties, teaTelephone FROM dbo.Tea_Cour</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="courseName" DataSetColumn="courseName" />
+              <Mapping SourceColumn="courseType" DataSetColumn="courseType" />
+              <Mapping SourceColumn="teaName" DataSetColumn="teaName" />
+              <Mapping SourceColumn="teaDuties" DataSetColumn="teaDuties" />
+              <Mapping SourceColumn="teaTelephone" DataSetColumn="teaTelephone" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Tea_Course_New" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Tea_Course_New" msprop:Generator_UserDSName="Tea_Course_New">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tea_Cour" msprop:Generator_TableClassName="Tea_CourDataTable" msprop:Generator_TableVarName="tableTea_Cour" msprop:Generator_TablePropName="Tea_Cour" msprop:Generator_RowDeletingName="Tea_CourRowDeleting" msprop:Generator_RowChangingName="Tea_CourRowChanging" msprop:Generator_RowEvHandlerName="Tea_CourRowChangeEventHandler" msprop:Generator_RowDeletedName="Tea_CourRowDeleted" msprop:Generator_UserTableName="Tea_Cour" msprop:Generator_RowChangedName="Tea_CourRowChanged" msprop:Generator_RowEvArgName="Tea_CourRowChangeEvent" msprop:Generator_RowClassName="Tea_CourRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="courseName" msprop:Generator_ColumnVarNameInTable="columncourseName" msprop:Generator_ColumnPropNameInRow="courseName" msprop:Generator_ColumnPropNameInTable="courseNameColumn" msprop:Generator_UserColumnName="courseName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="courseType" msprop:Generator_ColumnVarNameInTable="columncourseType" msprop:Generator_ColumnPropNameInRow="courseType" msprop:Generator_ColumnPropNameInTable="courseTypeColumn" msprop:Generator_UserColumnName="courseType">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="teaName" msprop:Generator_ColumnVarNameInTable="columnteaName" msprop:Generator_ColumnPropNameInRow="teaName" msprop:Generator_ColumnPropNameInTable="teaNameColumn" msprop:Generator_UserColumnName="teaName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="teaDuties" msprop:Generator_ColumnVarNameInTable="columnteaDuties" msprop:Generator_ColumnPropNameInRow="teaDuties" msprop:Generator_ColumnPropNameInTable="teaDutiesColumn" msprop:Generator_UserColumnName="teaDuties" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="teaTelephone" msprop:Generator_ColumnVarNameInTable="columnteaTelephone" msprop:Generator_ColumnPropNameInRow="teaTelephone" msprop:Generator_ColumnPropNameInTable="teaTelephoneColumn" msprop:Generator_UserColumnName="teaTelephone" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

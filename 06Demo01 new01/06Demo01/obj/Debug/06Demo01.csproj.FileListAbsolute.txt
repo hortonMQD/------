@@ -1,0 +1,152 @@
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\bin\Debug\06Demo01.exe.config
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\bin\Debug\06Demo01.exe
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\bin\Debug\06Demo01.pdb
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\06Demo01.csprojAssemblyReference.cache
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addCourse.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addStuInfo.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addStuScore.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.choiceCourse.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectCourse.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectStuInfo.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectStuScore.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updataPasswd.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateStuInfo.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateStuScore.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.adminForm.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.stuForm.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Properties.Resources.resources
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\06Demo01.csproj.GenerateResource.cache
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\06Demo01.csproj.CoreCompileInputs.cache
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\06Demo01.exe
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\06Demo01.pdb
+E:\学习\编程作品\asp.net\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaCourse.resources
+F:\06Demo01\06Demo01\obj\Debug\06Demo01.csprojAssemblyReference.cache
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addCourse.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addStuInfo.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addStuScore.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addTeaInfo.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.choiceCourse.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectCourse.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectStuInfo.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectStuScore.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectTeaInfo.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updataPasswd.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateStuInfo.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateStuScore.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaCourse.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaInfo.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.adminForm.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.LoginForm.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.stuForm.resources
+F:\06Demo01\06Demo01\obj\Debug\_06Demo01.Properties.Resources.resources
+F:\06Demo01\06Demo01\obj\Debug\06Demo01.csproj.GenerateResource.cache
+F:\06Demo01\06Demo01\obj\Debug\06Demo01.csproj.CoreCompileInputs.cache
+F:\06Demo01\06Demo01\obj\Debug\06Demo01.exe
+F:\06Demo01\06Demo01\obj\Debug\06Demo01.pdb
+F:\06Demo01\06Demo01\bin\Debug\06Demo01.exe.config
+F:\06Demo01\06Demo01\bin\Debug\06Demo01.exe
+F:\06Demo01\06Demo01\bin\Debug\06Demo01.pdb
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe.config
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\bin\Debug\06Demo01.pdb
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csprojAssemblyReference.cache
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addCourse.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addStuInfo.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addStuScore.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.addTeaInfo.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.choiceCourse.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectCourse.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectStuInfo.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectStuScore.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.selectTeaInfo.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updataPasswd.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateStuInfo.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateStuScore.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaCourse.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaInfo.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.adminForm.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.LoginForm.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.stuForm.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Properties.Resources.resources
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.GenerateResource.cache
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.CoreCompileInputs.cache
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\06Demo01.exe
+E:\学习\编程作品\asp.net\06Demo01 new01\06Demo01\obj\Debug\06Demo01.pdb
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddCourse.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddStuInfo.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddStuScore.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddTeaInfo.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.ChoiceCourse.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectCourse.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectStuInfo.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectStuScore.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectTeaInfo.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdataPasswd.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateStuInfo.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateStuScore.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateTeaCourse.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaInfo.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.AdminForm.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.LoginForm.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.StuForm.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Properties.Resources.resources
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.GenerateResource.Cache
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe.config
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csprojResolveAssemblyReference.cache
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.pdb
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.exe
+C:\Users\10532\Desktop\重要文件\asp.net\实训周\实训周(完成)\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.pdb
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe.config
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.exe
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.pdb
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.pdb
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csprojResolveAssemblyReference.cache
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddCourse.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddStuInfo.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddStuScore.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddTeaInfo.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.ChoiceCourse.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectCourse.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectStuInfo.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectStuScore.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectTeaInfo.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdataPasswd.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateStuInfo.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateStuScore.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateTeaCourse.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaInfo.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.AdminForm.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.LoginForm.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.StuForm.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Properties.Resources.resources
+C:\Users\10532\Desktop\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.GenerateResource.Cache
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe.config
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.exe
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\06Demo01.pdb
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\bin\Debug\IrisSkin2.dll
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddCourse.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddStuInfo.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddStuScore.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.AddTeaInfo.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.ChoiceCourse.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectCourse.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectStuInfo.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectStuScore.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.SelectTeaInfo.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdataPasswd.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateStuInfo.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateStuScore.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.UpdateTeaCourse.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.BusinessForm.updateTeaInfo.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.AdminForm.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.LoginForm.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Frame.MainForm.StuForm.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\_06Demo01.Properties.Resources.resources
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.GenerateResource.cache
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.CoreCompileInputs.cache
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csproj.CopyComplete
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.exe
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.pdb
+E:\学习\学校\作业\ASP.net\实训周\学生成绩管理系统\06Demo01 new01\06Demo01\obj\Debug\06Demo01.csprojAssemblyReference.cache

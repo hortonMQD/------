@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6DC1DA00-F3AD-4041-B0D1-DA69FC4A8E21}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>_06Demo01</RootNamespace>
+    <AssemblyName>06Demo01</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAO\DAOimpl.cs" />
+    <Compile Include="DAO\DAO_Course.cs" />
+    <Compile Include="DAO\DAO_Major.cs" />
+    <Compile Include="DAO\DAO_Student.cs" />
+    <Compile Include="DAO\DAO_S_C.cs" />
+    <Compile Include="DAO\DAO_Teacher.cs" />
+    <Compile Include="DAO\DAO_T_C.cs" />
+    <Compile Include="Frame\BusinessForm\AddCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddCourse.Designer.cs">
+      <DependentUpon>AddCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddStuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddStuInfo.Designer.cs">
+      <DependentUpon>AddStuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddStuScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddStuScore.Designer.cs">
+      <DependentUpon>AddStuScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddTeaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\AddTeaInfo.Designer.cs">
+      <DependentUpon>AddTeaInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\ChoiceCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\ChoiceCourse.Designer.cs">
+      <DependentUpon>ChoiceCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectCourse.Designer.cs">
+      <DependentUpon>SelectCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectStuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectStuInfo.Designer.cs">
+      <DependentUpon>SelectStuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectStuScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectStuScore.Designer.cs">
+      <DependentUpon>SelectStuScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectTeaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\SelectTeaInfo.Designer.cs">
+      <DependentUpon>SelectTeaInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdataPasswd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdataPasswd.Designer.cs">
+      <DependentUpon>UpdataPasswd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateStuInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateStuInfo.Designer.cs">
+      <DependentUpon>UpdateStuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateStuScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateStuScore.Designer.cs">
+      <DependentUpon>UpdateStuScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateTeaCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateTeaCourse.Designer.cs">
+      <DependentUpon>UpdateTeaCourse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateTeaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\BusinessForm\UpdateTeaInfo.Designer.cs">
+      <DependentUpon>UpdateTeaInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\MainForm\AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\MainForm\AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\MainForm\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\MainForm\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frame\MainForm\StuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frame\MainForm\StuForm.Designer.cs">
+      <DependentUpon>StuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pojo\student.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StudentInfo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StudentInfo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Stu_Course_New.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stu_Course_New.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Stu_Cour_View.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stu_Cour_View.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Teacher.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Teacher.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_New.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>teacher_New.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tea_Course_New.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tea_Course_New.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tea_Cour_View.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Tea_Cour_View.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Frame\BusinessForm\AddCourse.resx">
+      <DependentUpon>AddCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\AddStuInfo.resx">
+      <DependentUpon>AddStuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\AddStuScore.resx">
+      <DependentUpon>AddStuScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\AddTeaInfo.resx">
+      <DependentUpon>AddTeaInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\ChoiceCourse.resx">
+      <DependentUpon>ChoiceCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\SelectCourse.resx">
+      <DependentUpon>SelectCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\SelectStuInfo.resx">
+      <DependentUpon>SelectStuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\SelectStuScore.resx">
+      <DependentUpon>SelectStuScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\SelectTeaInfo.resx">
+      <DependentUpon>SelectTeaInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\UpdataPasswd.resx">
+      <DependentUpon>UpdataPasswd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\UpdateStuInfo.resx">
+      <DependentUpon>UpdateStuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\UpdateStuScore.resx">
+      <DependentUpon>UpdateStuScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\UpdateTeaCourse.resx">
+      <DependentUpon>UpdateTeaCourse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\BusinessForm\UpdateTeaInfo.resx">
+      <DependentUpon>UpdateTeaInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\MainForm\AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\MainForm\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frame\MainForm\StuForm.resx">
+      <DependentUpon>StuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="StudentInfo.xsc">
+      <DependentUpon>StudentInfo.xsd</DependentUpon>
+    </None>
+    <None Include="StudentInfo.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>StudentInfo.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="StudentInfo.xss">
+      <DependentUpon>StudentInfo.xsd</DependentUpon>
+    </None>
+    <None Include="Stu_Course_New.xsc">
+      <DependentUpon>Stu_Course_New.xsd</DependentUpon>
+    </None>
+    <None Include="Stu_Course_New.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stu_Course_New.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stu_Course_New.xss">
+      <DependentUpon>Stu_Course_New.xsd</DependentUpon>
+    </None>
+    <None Include="Stu_Cour_View.xsc">
+      <DependentUpon>Stu_Cour_View.xsd</DependentUpon>
+    </None>
+    <None Include="Stu_Cour_View.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stu_Cour_View.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Stu_Cour_View.xss">
+      <DependentUpon>Stu_Cour_View.xsd</DependentUpon>
+    </None>
+    <None Include="Teacher.xsc">
+      <DependentUpon>Teacher.xsd</DependentUpon>
+    </None>
+    <None Include="Teacher.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Teacher.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Teacher.xss">
+      <DependentUpon>Teacher.xsd</DependentUpon>
+    </None>
+    <None Include="teacher_New.xsc">
+      <DependentUpon>teacher_New.xsd</DependentUpon>
+    </None>
+    <None Include="teacher_New.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>teacher_New.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="teacher_New.xss">
+      <DependentUpon>teacher_New.xsd</DependentUpon>
+    </None>
+    <None Include="Tea_Course_New.xsc">
+      <DependentUpon>Tea_Course_New.xsd</DependentUpon>
+    </None>
+    <None Include="Tea_Course_New.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Tea_Course_New.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Tea_Course_New.xss">
+      <DependentUpon>Tea_Course_New.xsd</DependentUpon>
+    </None>
+    <None Include="Tea_Cour_View.xsc">
+      <DependentUpon>Tea_Cour_View.xsd</DependentUpon>
+    </None>
+    <None Include="Tea_Cour_View.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Tea_Cour_View.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Tea_Cour_View.xss">
+      <DependentUpon>Tea_Cour_View.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="lib\IrisSkin2.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
